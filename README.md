@@ -7,3 +7,7 @@
 
 [https://otx.alienvault.com/](https://otx.alienvault.com/)
 ----------
+
+[https://www.darksideops.com/web-application-penetration-testing-checklist/](https://www.darksideops.com/web-application-penetration-testing-checklist/)
+
+-------------
